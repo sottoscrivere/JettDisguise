@@ -1,0 +1,7 @@
+name: JettDisguise
+version: '${project.version}'
+main: eu.jettstudios.jettdisguise.JettDisguise
+authors: [ NoSkidding_ ]
+softdepend: [TAB]
+commands:
+  disguise:

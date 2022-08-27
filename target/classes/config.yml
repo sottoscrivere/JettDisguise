@@ -1,0 +1,43 @@
+#Modes:
+# VANILLA - 1
+# TAB - 2
+mode: 1
+
+prefix: "&9&lJETTSTUDIOS &8»"
+
+Gui:
+  NAME: "&9&lJETTDISGUISE"
+  NICK:
+    unset:
+      type: WOOL
+      name: "&cNOT SET"
+      data: 14
+      set_durability: false
+      durability: 0
+      unbreakable: false
+    set:
+      type: WOOL
+      name: "&aSET"
+      data: 5
+      set_durability: false
+      durability: 0
+      unbreakable: false
+  SKIN:
+    type: SKULL_ITEM
+    name: "&9Skin"
+    data: 5
+    set_durability: false
+    durability: 0
+    unbreakable: false
+Messages:
+  PLAYER_ONLY: "%prefix% &7Questo comando può essere eseguito solo dai &cgiocatori&7!"
+  NO_PERMISSION: "%prefix% &7Non hai il &cpermesso &7per eseguire questo comando"
+  ERROR: "%prefix% &cC'è stato un errore durante l'esecuzione del comando!"
+  DISGUISED: "%prefix% &aSei stato disguisato, il tuo nome è ora nascosto!"
+  UNDISGUISED: "%prefix% &cSei stato undisguisato, il tuo nome è ora visibile"
+  LISTENING_FOR_NAME: "%prefix% &7Inserisci il nome"
+  NICKNAME_SET: "%prefix% &aHai selezionato il nome &7%nick%"
+  NICKNAME_TOO_LONG: "%prefix% &cIl nickname selezionato è troppo &alungo"
+  LISTENING_FOR_SKIN: "%prefix% &7Inserisci il nome della skin che vuoi avere"
+  SKIN_SET: "%prefix% &aHai selezionato come nome della skin &7%nick%"
+  PLAYER_ONLINE: "%prefix% &7Il &cnome &7selezionato è lo stesso di un &cgiocatore online&7!"

@@ -1,0 +1,11 @@
+eu\jettstudios\jettdisguise\data\Data.class
+eu\jettstudios\jettdisguise\DisguiseCommand.class
+eu\jettstudios\jettdisguise\JettDisguise.class
+eu\jettstudios\jettdisguise\utils\Config.class
+eu\jettstudios\jettdisguise\utils\Placeholders.class
+eu\jettstudios\jettdisguise\utils\Utils.class
+eu\jettstudios\jettdisguise\listeners\ChatListener.class
+eu\jettstudios\jettdisguise\DisguisedPlayer.class
+eu\jettstudios\jettdisguise\listeners\QuitListener.class
+eu\jettstudios\jettdisguise\listeners\InventoryListener.class
+eu\jettstudios\jettdisguise\utils\Color.class
